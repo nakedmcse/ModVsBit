@@ -1,0 +1,15 @@
+/Users/walker/Documents/Code/ModVsBit/obj/Debug/net7.0/ModVsBit.csproj.AssemblyReference.cache
+/Users/walker/Documents/Code/ModVsBit/obj/Debug/net7.0/ModVsBit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/walker/Documents/Code/ModVsBit/obj/Debug/net7.0/ModVsBit.AssemblyInfoInputs.cache
+/Users/walker/Documents/Code/ModVsBit/obj/Debug/net7.0/ModVsBit.AssemblyInfo.cs
+/Users/walker/Documents/Code/ModVsBit/obj/Debug/net7.0/ModVsBit.csproj.CoreCompileInputs.cache
+/Users/walker/Documents/Code/ModVsBit/bin/Debug/net7.0/ModVsBit
+/Users/walker/Documents/Code/ModVsBit/bin/Debug/net7.0/ModVsBit.deps.json
+/Users/walker/Documents/Code/ModVsBit/bin/Debug/net7.0/ModVsBit.runtimeconfig.json
+/Users/walker/Documents/Code/ModVsBit/bin/Debug/net7.0/ModVsBit.dll
+/Users/walker/Documents/Code/ModVsBit/bin/Debug/net7.0/ModVsBit.pdb
+/Users/walker/Documents/Code/ModVsBit/obj/Debug/net7.0/ModVsBit.dll
+/Users/walker/Documents/Code/ModVsBit/obj/Debug/net7.0/refint/ModVsBit.dll
+/Users/walker/Documents/Code/ModVsBit/obj/Debug/net7.0/ModVsBit.pdb
+/Users/walker/Documents/Code/ModVsBit/obj/Debug/net7.0/ModVsBit.genruntimeconfig.cache
+/Users/walker/Documents/Code/ModVsBit/obj/Debug/net7.0/ref/ModVsBit.dll
