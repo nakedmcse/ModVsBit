@@ -20,7 +20,12 @@ function profileFunction(func, range) {
 }
 
 const range = 100000;
+let runAvg = 0;
 console.log("Profiling for range:", range);
 
-const timeBit = profileFunction(isEvenBit,range);
-console.log("Time taken for bitwise:", timeBit);
+//for (let i = 0; i < 20; i++) {
+    const timeBit = profileFunction(isEvenBit,range);
+    console.log("Time taken for bitwise:", timeBit);
+    runAvg += timeBit;
+//}
+//console.log("Average for 20 runs:", runAvg/20);

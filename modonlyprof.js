@@ -20,7 +20,13 @@ function profileFunction(func, range) {
 }
 
 const range = 100000;
+let runAvg = 0;
 console.log("Profiling for range:", range);
 
-const timeMod = profileFunction(isEvenModulo,range);
-console.log("Time taken for modulo:", timeMod);
+//for (let i = 0; i < 20; i++) {
+    const timeMod = profileFunction(isEvenModulo,range);
+    console.log("Time taken for modulo:", timeMod);
+    runAvg += timeMod;
+//}
+
+//console.log("Average for 20 runs:", runAvg/20);
