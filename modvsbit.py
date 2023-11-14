@@ -3,7 +3,7 @@ import time,random
 
 # Generate array
 def generate_array(arr_size):
-    return [random.randint(1,100000)] * 100000
+    return [random.randint(1,100000)] * arr_size
 
 # Even bitwise
 def even_bitwise(num):
