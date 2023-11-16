@@ -1,4 +1,4 @@
-//Profiler version of modulus vs bitwise 
+//Profiler version of modulus vs bitwise -- @pb_steele
 
 function isEvenModulo(num) {
     return num % 2 === 0;
